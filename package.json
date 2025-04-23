@@ -6,6 +6,7 @@
   "description": "this is a test",
   "main": "index.js",
   "scripts": {
+    "dev": "vite",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "David Asbury",
