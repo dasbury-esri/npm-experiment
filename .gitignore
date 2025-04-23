@@ -11,3 +11,16 @@ yarn-error.log*
 
 # Build output
 dist/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Finder settings
+Icon?
+._*
+
+# macOS resource fork files
+.Spotlight-V100
+.Trashes
